@@ -2,8 +2,8 @@
 
 # Find .app files in the current directory and one subdirectory deep
 while IFS= read -r FILENAME; do
-    # Ask the user if they want to run the commands on this file
-    echo "Do you want to run the commands on $FILENAME? [y/N]"
+    # Ask the user if they want to run the codesign commands on this file
+    echo "Do you want to codesign $FILENAME? [y/N]"
     read -r ANSWER < /dev/tty
 
     # Check the user's answer
