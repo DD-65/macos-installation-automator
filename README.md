@@ -1,6 +1,6 @@
 # Automate the installation of apps
 
-I coded this because I downloaded a bunch of dmgs and pcks from the internet and didn't want to spend hours installing all of them manually.. Putting it here in case someone else faces the same problem (and doesn't just do a quick google search on how to automate stuff like me)
+I coded this because I had to handle a lot of dmg and pck files and didn't want to spend hours installing all of them manually. Putting it here in case someone else faces the same problem.
 
 ## Description
 ### codesigner
